@@ -1,0 +1,1 @@
+var censor = require("censorify")
